@@ -1,3 +1,4 @@
+//sum  1.50s user 0.00s system 100% cpu 1.504 total
 package main
 
 import "fmt"

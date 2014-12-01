@@ -1,3 +1,4 @@
+//./sumcpp  2.78s user 0.01s system 100% cpu 2.786 total
 #include <iostream>
 using namespace std;
 

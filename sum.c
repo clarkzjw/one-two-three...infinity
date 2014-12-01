@@ -1,3 +1,4 @@
+//./sumc  2.80s user 0.00s system 100% cpu 2.796 total
 #include <stdio.h>
 int main()
 {
