@@ -1,4 +1,4 @@
 one-two-three...infinity
 ========================
 
-Calculating one to a million in every programming languages
+Calculating one to a billion in every programming languages
