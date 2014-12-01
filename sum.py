@@ -1,1 +1,1 @@
-print sum(range(1,1000000))
+print sum(range(1,1000000000))
