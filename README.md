@@ -1,4 +1,4 @@
 one-two-three...infinity
 ========================
 
-Calculating one to a billion in every programming languages
+Calculating the **sum** from one to a billion in different programming languages.
