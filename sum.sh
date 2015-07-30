@@ -1,6 +1,6 @@
 #!/bin/bash
 A=0;
-for (( i=0; i<100000000; i++ )){
+for (( i=0; i<=1000000000; i++ )){
         A=$[$A+$i];
 }
 echo "We counted to $i";
