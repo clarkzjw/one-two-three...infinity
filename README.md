@@ -5,7 +5,4 @@ Calculating the **sum** from one to a billion in different programming languages
 
 The following implementations need to be reviewed:
 + [JavaScript](sum.js)
-+ [Lisp](sum.lisp)
 + [Mathematica](sum.m)
-+ [Ruby](sum.rb)
-+ [Bash](sum.sh)
