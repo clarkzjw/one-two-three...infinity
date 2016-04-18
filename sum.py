@@ -1,2 +1,6 @@
 #! /bin/python3
-print (sum(range(1,1000000000)))
+sum = 0
+for i in xrange(10):
+    sum += i + 1
+    
+print sum
