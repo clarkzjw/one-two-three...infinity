@@ -8,6 +8,7 @@ The following implementations need to be reviewed:
 
 ## Current Languages
 - [C](sum.c)
+- [C++](sum.cpp)
 - [C#](sum.cs)
 - [Go](sum.go)
 - [Java](sum.java)
