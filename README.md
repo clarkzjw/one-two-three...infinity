@@ -7,10 +7,12 @@ The following implementations need to be reviewed:
 + [Mathematica](sum.m)
 
 ## Current Languages
+- [APL](sum.apl)
 - [C](sum.c)
 - [C++](sum.cpp)
 - [C#](sum.cs)
 - [Go](sum.go)
+- [Haskell](sum.hs)
 - [Java](sum.java)
 - [JavaScript](sum.js)
 - [Julia](sum.jl)
@@ -24,6 +26,7 @@ The following implementations need to be reviewed:
 - [Rust](sum.rs)
 - [Scala](sum.scala)
 - [Shell](sum.sh)
+- [SML](sum.sml)
 - [Swift](sum.swift)
 
 ## Rules
