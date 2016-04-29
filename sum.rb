@@ -1,2 +1,2 @@
 #!/usr/bin/env
-print (1..1000000000).reduce(:+)
+print (1..1_000_000_000).reduce(:+)
