@@ -32,16 +32,19 @@ The following implementations need to be reviewed:
 - [Swift](sum.swift)
 
 ## Rules
-The code should be fully runnable. **NOT:** 
+The code should be fully runnable. (The following example is Swift) **NOT:** 
 
+```swift
     var sum = 0
     for i in 1...1000000000 {
 		sum += i
 	}
 	print (sum)
-	
+```
+
 **Instead do:**
 
+```swift
     class ViewController: UIViewController {
         func viewDidLoad() {
         	var sum = 0
@@ -51,3 +54,4 @@ The code should be fully runnable. **NOT:**
             print (sum)
         }
     }
+```
