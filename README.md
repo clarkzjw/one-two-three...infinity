@@ -21,6 +21,7 @@ The following implementations need to be reviewed:
 - [Kotlin](sum.kl)
 - [Lisp](sum.lisp)
 - [Mathematica](sum.m)
+- [Perl](sum.pl)
 - [PHP](sum.python)
 - [R](sum.r)
 - [Python](sum.py)
