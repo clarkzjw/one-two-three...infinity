@@ -22,7 +22,7 @@ The following implementations need to be reviewed:
 - [Lisp](sum.lisp)
 - [Mathematica](sum.m)
 - [Perl](sum.pl)
-- [PHP](sum.python)
+- [PHP](sum.php)
 - [R](sum.r)
 - [Python](sum.py)
 - [Ruby](sum.rb)
