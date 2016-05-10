@@ -3,10 +3,10 @@
 
 using namespace std;
 
+long long sum = 0;
+
 int main()
 {
-	long long sum = 0;
-
 	#pragma omp for reduction(+:sum)
 	for (int i = 1; i <= 1000000000; i++)
 		sum += i;
