@@ -11,8 +11,7 @@ static class SumToBillion
     
     static IEnumerable<long> Range(long Max)
     {
-        long i = 1;
-        while (i <= Max)
-            yield return i++;
+        for (long i = 1; i <= Max; i++)
+            yield return i;
     }
 }
