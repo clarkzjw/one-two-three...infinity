@@ -7,7 +7,7 @@ long long sum = 0;
 
 int main()
 {
-	#pragma omp for reduction(+:sum)
+	#pragma omp parallel for reduction(+:sum)
 	for (int i = 1; i <= 1000000000; i++)
 		sum += i;
 	cout << sum << endl;
