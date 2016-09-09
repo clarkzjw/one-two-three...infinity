@@ -18,7 +18,7 @@ The following implementations need to be reviewed:
 - [Java](sum.java)
 - [JavaScript](sum.js)
 - [Julia](sum.jl)
-- [Kotlin](sum.kl)
+- [Kotlin](sum.kt)
 - [Lisp](sum.lisp)
 - [Mathematica](sum.m)
 - [Perl](sum.pl)
@@ -33,7 +33,7 @@ The following implementations need to be reviewed:
 - [Swift](sum.swift)
 
 ## Rules
-The code should be fully runnable. (The following example is Swift) **NOT:** 
+The code should be fully runnable. (The following example is Swift) **NOT:**
 
 ```swift
     var sum = 0
