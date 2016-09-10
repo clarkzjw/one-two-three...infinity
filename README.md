@@ -31,6 +31,7 @@ The following implementations need to be reviewed:
 - [Shell](sum.sh)
 - [SML](sum.sml)
 - [Swift](sum.swift)
+- [Futhark](sum.fut)
 
 ## Rules
 The code should be fully runnable. (The following example is Swift) **NOT:** 
