@@ -13,6 +13,7 @@ The following implementations need to be reviewed:
 - [C++](sum.cpp)
 - [C#](sum.cs)
 - [Cuda](sum.cu)
+- [Erlang](sum.erl)
 - [Fortran](sum.f90)
 - [Go](sum.go)
 - [Haskell](sum.hs)
