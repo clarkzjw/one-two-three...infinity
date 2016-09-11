@@ -5,7 +5,6 @@ Calculating the **sum** from one to a billion in different programming languages
 The following implementations need to be reviewed:
 + [JavaScript](sum.js)
 + [Mathematica](sum.m)
-+ [Cuda](sum.cu)
 
 ## Current Languages
 - [APL](sum.apl)
