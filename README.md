@@ -32,5 +32,6 @@ The following implementations need to be reviewed:
 - [Scala](sum.scala)
 - [Shell](sum.sh)
 - [SML](sum.sml)
+- [Smalltalk](sum.st)
 - [Swift](sum.swift)
 - [Futhark](sum.fut)
