@@ -8,6 +8,7 @@ The following implementations need to be reviewed:
 
 ## Current Languages
 - [APL](sum.apl)
+- [Brainfuck](sum.b)
 - [C](sum.c)
 - [C++](sum.cpp)
 - [C#](sum.cs)
