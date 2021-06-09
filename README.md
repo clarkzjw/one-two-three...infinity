@@ -8,7 +8,7 @@ The following implementations need to be reviewed:
 
 ## Current Languages
 - [APL](APL.apl)
-- [Brainfuck](sum.b)
+- [Brainfuck](Brainfuck.b)
 - [C](C.c)
 - [C++](C++.cpp)
 - [C#](C%20Sharp.cs)
