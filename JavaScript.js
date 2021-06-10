@@ -1,7 +1,7 @@
-var j = 0;
+var j = 0n;
 
-for (i = 1; i <= 1000000000; i++) {
+for (i = 1n; i <= 1000000000n; i++) {
    j += i;
 }
 
-console.log(j);
+console.log(j.toString());
