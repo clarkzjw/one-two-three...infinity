@@ -7,6 +7,7 @@ The following implementations need to be reviewed:
 + [Mathematica](Mathematica.m)
 
 ## Current Languages
+- [Agda](Agda.agda)
 - [APL](APL.apl)
 - [Brainfuck](Brainfuck.b)
 - [C](C.c)
