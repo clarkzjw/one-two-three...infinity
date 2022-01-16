@@ -16,6 +16,7 @@ The following implementation(s) need to be reviewed:
 - [Dart](Dart.dart)
 - [Erlang](Erlang.erl)
 - [Fortran](Fortran.f90)
+- [Futhark](Futhark.fut)
 - [Go](Go.go)
 - [Haskell](Haskell.hs)
 - [Java](Java.java)
@@ -36,4 +37,3 @@ The following implementation(s) need to be reviewed:
 - [SML](SML.sml)
 - [Smalltalk](Smalltalk.st)
 - [Swift](Swift.swift)
-- [Futhark](Futark.fut)
