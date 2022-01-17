@@ -37,3 +37,4 @@ The following implementation(s) need to be reviewed:
 - [SML](SML.sml)
 - [Smalltalk](Smalltalk.st)
 - [Swift](Swift.swift)
+- [TypeScript](TypeScript.ts)
