@@ -8,7 +8,7 @@ The following implementation(s) need to be reviewed:
 ## Current Languages
 - [Agda](Agda.agda)
 - [APL](APL.apl)
-- [Brainfuck](Brainfuck.b)
+- [Brainfuck](Brainfuck.bf)
 - [C](C.c)
 - [C++](C++.cpp)
 - [C#](C%20Sharp.cs)
