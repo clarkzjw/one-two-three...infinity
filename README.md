@@ -25,6 +25,7 @@ The following implementation(s) need to be reviewed:
 - [Kotlin](Koltlin.kt)
 - [Common Lisp](Common%20Lisp.lisp)
 - [Mathematica](Mathematica.m)
+- [Maxima](Maxima.max)
 - [Pascal](Pascal.pas)
 - [Perl](Perl.pl)
 - [PHP](PHP.php)
