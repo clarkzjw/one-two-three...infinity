@@ -39,3 +39,5 @@ The following implementation(s) need to be reviewed:
 - [Smalltalk](Smalltalk.st)
 - [Swift](Swift.swift)
 - [TypeScript](TypeScript.ts)
+- [Zig](Zig.zig)
+
