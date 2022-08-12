@@ -8,5 +8,5 @@ func main() {
 	for i = 1; i <= 1000000000; i++ {
 		sum += i
 	}
-	fmt.Printf("%d", sum)
+	fmt.Printf("%d\n", sum)
 }
