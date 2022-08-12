@@ -2,9 +2,6 @@
 
 Calculating the **sum** from one to a billion in different programming languages, inspired by [leachim6/hello-world](https://github.com/leachim6/hello-world)
 
-The following implementation(s) need to be reviewed:
-+ [Mathematica](Mathematica.m)
-
 ## Current Languages
 - [Agda](Agda.agda)
 - [APL](APL.apl)
