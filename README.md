@@ -3,6 +3,7 @@
 Calculating the **sum** from one to a billion in different programming languages, inspired by [leachim6/hello-world](https://github.com/leachim6/hello-world)
 
 ## Current Languages
+
 - [Agda](Agda.agda)
 - [APL](APL.apl)
 - [Brainfuck](Brainfuck.bf)
@@ -10,6 +11,7 @@ Calculating the **sum** from one to a billion in different programming languages
 - [C++](C++.cpp)
 - [C#](C%20Sharp.cs)
 - [Cuda](Cuda.cu)
+- [D](D.d)
 - [Dart](Dart.dart)
 - [Erlang](Erlang.erl)
 - [Fortran](Fortran.f90)
@@ -37,4 +39,3 @@ Calculating the **sum** from one to a billion in different programming languages
 - [Swift](Swift.swift)
 - [TypeScript](TypeScript.ts)
 - [Zig](Zig.zig)
-
