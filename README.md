@@ -6,7 +6,7 @@ Calculating the **sum** from one to a billion in different programming languages
 
 - [Agda](Agda.agda)
 - [APL](APL.apl)
-- [Basic](basic.bas)
+- [Basic](Basic.bas)
 - [Brainfuck](Brainfuck.bf)
 - [C](C.c)
 - [C++](C++.cpp)
