@@ -31,6 +31,7 @@ Calculating the **sum** from one to a billion in different programming languages
 - [PHP](PHP.php)
 - [R](R.r)
 - [Python](Python.py)
+- [Racket](Racket.rkt)
 - [Ruby](Ruby.rb)
 - [Rust](Rust.rs)
 - [Scala](Scala.scala)
