@@ -29,6 +29,7 @@ Calculating the **sum** from one to a billion in different programming languages
 - [Pascal](Pascal.pas)
 - [Perl](Perl.pl)
 - [PHP](PHP.php)
+- [PostScript](PostScript.ps)
 - [R](R.r)
 - [Python](Python.py)
 - [Racket](Racket.rkt)
